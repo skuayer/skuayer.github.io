@@ -22,7 +22,7 @@ $(function () {
             }
 
             $.ajax({
-                url: "//formspree.io/admin@sifory.ru",
+                url: "https://formspree.io/admin@sifory.ru",
                 type: "POST",
                 dataType: "json",
                 data: {
